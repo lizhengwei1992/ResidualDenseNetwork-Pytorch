@@ -1,5 +1,6 @@
-# ResidualDenseNetwork-Pytorch
-Pytorch implement: Residual Dense Network for Image Super-Resolution
+# ResidualDenseNetwork-Pytorch 
+
+Pytorch implement: [Residual Dense Network for Image Super-Resolution](https://arxiv.org/pdf/1802.08797.pdf)
 # Requirements
 - python3.5 / 3.6
 - pytorch >= 0.2
