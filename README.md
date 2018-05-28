@@ -4,9 +4,9 @@ Pytorch implement: [Residual Dense Network for Image Super-Resolution](https://a
 
 Two advantage ideas of the paper:
 - join denese connect layer to ResNet  
-![RDB](https://github.com/lizhengwei1992/ResidualDenseNetwork-Pytorch/tree/master/images/RDB.png)
+![RDB](https://github.com/lizhengwei1992/ResidualDenseNetwork-Pytorch/raw/master/images/RDB.png)
 - concatenation of hierarchical features  
-![RDN](https://github.com/lizhengwei1992/ResidualDenseNetwork-Pytorch/tree/master/images/RDN.png)  
+![RDN](https://github.com/lizhengwei1992/ResidualDenseNetwork-Pytorch/raw/master/images/RDN.png)  
 
 
 
